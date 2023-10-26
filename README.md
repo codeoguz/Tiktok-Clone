@@ -16,7 +16,7 @@ You can see the screenshots inside the app:
 
 What I learned:
 - What is MongoDB, Heroku, Firebase Hosting.
-- How to deploy an app from 2 project (fronten and backend are separate)
+- How to deploy an app from 2 project (frontend and backend are separate)
 - Some React concepts: useState, useEffect
 
 
